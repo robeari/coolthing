@@ -1,0 +1,18 @@
+P{
+    color:white;
+    background:red;
+    font-style: italic;
+
+}
+
+
+div{
+    width:100px;
+    height:100px;
+    background:blue;
+    padding:12px;
+    border:2px solid red;
+    float: left;
+    margin: 10px;
+    
+}
